@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://desumosan.github.io/News/sitemap.xml
+Sitemap: https://desumosan.github.io/sitemap.xml
